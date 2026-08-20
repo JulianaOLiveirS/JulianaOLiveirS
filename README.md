@@ -28,13 +28,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianaOLiveirS&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
 
 ### 📫 Contato
 
