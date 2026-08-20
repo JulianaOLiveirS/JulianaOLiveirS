@@ -31,7 +31,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianaOLiveirS&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=github.com/JulianaOLiveirS&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ---
@@ -39,8 +39,7 @@
 ### 📫 Contato
 
 <p align="left">
-  <a href="
-linkedin.com/in/juliana-oliveira-9024b2280" target="_blank">
+  <a href="https://www.linkedin.com/in/juliana-oliveira-9024b2280" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:julianaoliveirsilv@gmail.com">
